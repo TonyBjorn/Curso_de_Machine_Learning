@@ -9,3 +9,6 @@
     
 04/05/2023
   Ejercicios de map, introduccion de machine learning y folium
+ 
+05/05/2023
+  Ejercicios Folium, Space x 05/06, maps y SQL
